@@ -1,4 +1,4 @@
-module github/huangshic/mlog
+module github.com/huangshic/mlog
 
 go 1.21.0
 

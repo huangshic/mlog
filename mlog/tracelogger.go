@@ -3,8 +3,8 @@ package mlog
 import (
 	"context"
 	"fmt"
-	"github/huangshic/mlog/mlog/tracer"
 
+	"github.com/huangshic/mlog/mlog/tracer"
 	otel_trace "go.opentelemetry.io/otel/trace"
 	"go.uber.org/zap"
 )

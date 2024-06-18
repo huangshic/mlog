@@ -1,8 +1,7 @@
 package mlog
 
 import (
-	"github/huangshic/mlog/mlog/zaplog"
-
+	"github.com/huangshic/mlog/mlog/zaplog"
 	"go.uber.org/zap"
 )
 

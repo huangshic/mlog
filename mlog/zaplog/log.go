@@ -1,11 +1,11 @@
 package zaplog
 
 import (
-	"github/huangshic/mlog/mlog/conf"
-	"github/huangshic/mlog/mlog/fileout"
 	"os"
 	"strings"
 
+	"github.com/huangshic/mlog/mlog/conf"
+	"github.com/huangshic/mlog/mlog/fileout"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

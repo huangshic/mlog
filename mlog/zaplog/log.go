@@ -1,8 +1,8 @@
 package zaplog
 
 import (
-	"huangshic/mlog/mlog/conf"
-	"huangshic/mlog/mlog/fileout"
+	"github/huangshic/mlog/mlog/conf"
+	"github/huangshic/mlog/mlog/fileout"
 	"os"
 	"strings"
 

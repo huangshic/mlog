@@ -1,9 +1,9 @@
 package main
 
 import (
-	"huangshic/mlog/mlog"
-	"huangshic/mlog/mlog/conf"
-	"huangshic/mlog/mlog/zaplog"
+	"github/huangshic/mlog/mlog"
+	"github/huangshic/mlog/mlog/conf"
+	"github/huangshic/mlog/mlog/zaplog"
 	"time"
 
 	"go.uber.org/zap"
